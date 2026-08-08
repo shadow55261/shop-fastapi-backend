@@ -1,0 +1,8 @@
+shop_venv/
+__pycache__/
+uploads/
+
+*.log
+*.db
+*.env
+.env
